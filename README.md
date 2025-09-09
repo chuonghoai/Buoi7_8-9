@@ -1,4 +1,4 @@
-# Bài tập buổi 6 ngày 8/9
+# Bài tập buổi 7 ngày 8/9
 Họ tên: Trương Hoài Chương MSSV: 23110081
 
 Lớp: ARIN330585_05CLC Buổi: Sáng thứ 2 - thứ 6, tiết 1 - 4
