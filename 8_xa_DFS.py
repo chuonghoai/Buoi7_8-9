@@ -12,10 +12,10 @@ class eight_queen:
         self.n = 8
 
         self.frame_left = tk.Frame(self.root, bg="lightgray", relief="solid", borderwidth=1)
-        self.frame_left.grid(row=0, column=0, padx=10, pady=10)
+        self.frame_left.grid(row=0, column=0, padx=10, pady=5)
 
         self.frame_right = tk.Frame(self.root, bg="lightgray", relief="solid", borderwidth=1)
-        self.frame_right.grid(row=0, column=1, padx=10, pady=10)
+        self.frame_right.grid(row=0, column=1, padx=10, pady=5)
 
         white_xa = Image.open("./whiteX.png").resize((60, 60))
         black_xa = Image.open("./blackX.png").resize((60, 60))
