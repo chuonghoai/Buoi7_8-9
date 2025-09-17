@@ -4,7 +4,7 @@ import copy
 from PIL import Image, ImageTk
 from collections import deque
 
-class eight_queen:
+class eight_xa:
     def __init__(self, root):
         self.root = root
         self.root.title("8 queen")
