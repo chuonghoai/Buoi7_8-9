@@ -130,5 +130,5 @@ class eight_xa:
     
 if __name__ == "__main__":
     root = tk.Tk()
-    game = eight_queen(root)
+    game = eight_xa(root)
     root.mainloop()
